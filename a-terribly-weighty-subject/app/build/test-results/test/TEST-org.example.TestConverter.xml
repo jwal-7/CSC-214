@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.TestConverter" tests="12" skipped="0" failures="0" errors="0" timestamp="2026-01-19T04:56:14" hostname="the-laptop" time="0.047">
+  <properties/>
+  <testcase name="test16OuncesToPoundsAndOunces()" classname="org.example.TestConverter" time="0.019"/>
+  <testcase name="test32OuncesToPounds()" classname="org.example.TestConverter" time="0.002"/>
+  <testcase name="testZeroOuncesToPounds()" classname="org.example.TestConverter" time="0.001"/>
+  <testcase name="test32OuncesToPoundsAndOunces()" classname="org.example.TestConverter" time="0.001"/>
+  <testcase name="test1OunceToPounds()" classname="org.example.TestConverter" time="0.001"/>
+  <testcase name="test2OuncesToPounds()" classname="org.example.TestConverter" time="0.001"/>
+  <testcase name="test24OuncesToPoundsAndOunces()" classname="org.example.TestConverter" time="0.001"/>
+  <testcase name="test16OuncesToPounds()" classname="org.example.TestConverter" time="0.001"/>
+  <testcase name="testZeroOuncesToPoundsAndOunces()" classname="org.example.TestConverter" time="0.001"/>
+  <testcase name="test1OunceToPoundsAndOunces()" classname="org.example.TestConverter" time="0.001"/>
+  <testcase name="test24OuncesToPounds()" classname="org.example.TestConverter" time="0.001"/>
+  <testcase name="test2OuncesToPoundsAndOunces()" classname="org.example.TestConverter" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.PayCalcTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2026-01-25T18:12:14.604Z" hostname="the-laptop" time="0.028">
+  <properties/>
+  <testcase name="testGrossPayZeroHours()" classname="org.example.PayCalcTest" time="0.012"/>
+  <testcase name="testFedIncomeTaxFourHundredFiftySixDollarsAndFortyEightCents()" classname="org.example.PayCalcTest" time="0.001"/>
+  <testcase name="testGrossPayFortyFiveHours()" classname="org.example.PayCalcTest" time="0.0"/>
+  <testcase name="testThreeDependents()" classname="org.example.PayCalcTest" time="0.0"/>
+  <testcase name="testGrossPayFifteenHours()" classname="org.example.PayCalcTest" time="0.0"/>
+  <testcase name="testSSTaxSixHundredFiftyDollars()" classname="org.example.PayCalcTest" time="0.0"/>
+  <testcase name="testSSTaxThreeHundredDollars()" classname="org.example.PayCalcTest" time="0.001"/>
+  <testcase name="testNineDependents()" classname="org.example.PayCalcTest" time="0.001"/>
+  <testcase name="testStateIncomeTaxTwoHundredEightyTwoDollarsAndThirtySevenCents()" classname="org.example.PayCalcTest" time="0.001"/>
+  <testcase name="testTwoDependents()" classname="org.example.PayCalcTest" time="0.001"/>
+  <testcase name="testGrossPayTwentyAndHalfHours()" classname="org.example.PayCalcTest" time="0.0"/>
+  <testcase name="testFedIncomeTaxSevenHundredNinetySevenDollarsAndFiveCents()" classname="org.example.PayCalcTest" time="0.0"/>
+  <testcase name="testStateIncomeTaxSevenHundredNinetySevenDollarsAndFiveCents()" classname="org.example.PayCalcTest" time="0.0"/>
+  <testcase name="testNetPayFortyFiveHoursOneDependent()" classname="org.example.PayCalcTest" time="0.001"/>
+  <testcase name="testFedIncomeTaxThreeHundredDollarsAndTwentyOneCents()" classname="org.example.PayCalcTest" time="0.0"/>
+  <testcase name="testNetPayFortyFiveHoursFourDependents()" classname="org.example.PayCalcTest" time="0.0"/>
+  <testcase name="testStateIncomeTaxFiveHundredTwentySevenDollarsAndEightyCents()" classname="org.example.PayCalcTest" time="0.0"/>
+  <testcase name="testSSTaxSevenHundredNinetySevenDollarsAndFiveCents()" classname="org.example.PayCalcTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -2,7 +2,7 @@ package org.example;
 import java.util.Scanner;
 
 public class App {
-  public static int getInput(String prompt, int lowerBound, int upperBound, String errorMessage) {
+  public static int getInput(String prompt, int lowerBound, int upperBound, String errorMessage, boolean printInput) {
     Scanner in = new Scanner(System.in);
 
     boolean isValid = false;
@@ -15,7 +15,9 @@ public class App {
         System.out.println(errorMessage);
       } else {
         isValid = true;
-        System.out.println("User inputted: " + userInput);
+        if (printInput) {
+          System.out.println("User inputted: " + userInput);
+        }
         return userInput;
       }
     }
@@ -26,13 +28,13 @@ public class App {
 
     System.out.println("Welcome to the input validator!");
     App.getInput("Enter an integer between 0 and 100 (inclusive): ", 0,
-            100, "Invalid input, try again" );
+            100, "Invalid input, try again", true );
 
     App.getInput("Enter an integer between 1 and 4 (inclusive): ", 1,
-           4, "Invalid input, try again" );
+           4, "Invalid input, try again", false );
 
     App.getInput("Enter an integer between -1 and 1 (inclusive): ", -1,
-            1, "Invalid input, try again" );
+            1, "Invalid input, try again", true );
 
   }
 }

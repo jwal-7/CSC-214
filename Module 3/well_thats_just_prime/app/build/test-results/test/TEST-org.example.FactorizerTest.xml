@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.FactorizerTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2026-02-02T00:47:37.353Z" hostname="the-first-pc" time="0.031">
+  <properties/>
+  <testcase name="itReturnsAProperListForThreeHundredFiftySix()" classname="org.example.FactorizerTest" time="0.011"/>
+  <testcase name="itReturnsAProperListForSeventyTwo()" classname="org.example.FactorizerTest" time="0.001"/>
+  <testcase name="itReturnsAnEmptyListForOne()" classname="org.example.FactorizerTest" time="0.001"/>
+  <testcase name="itReturnsAProperListForThirtyFive()" classname="org.example.FactorizerTest" time="0.001"/>
+  <testcase name="itReturnsAProperListForOneHundredFortyEight()" classname="org.example.FactorizerTest" time="0.001"/>
+  <testcase name="itReturnsAProperListForTwentyFour()" classname="org.example.FactorizerTest" time="0.0"/>
+  <testcase name="itReturnsAProperListForOneHundred()" classname="org.example.FactorizerTest" time="0.0"/>
+  <testcase name="itReturnsAnEmptyListForZero()" classname="org.example.FactorizerTest" time="0.0"/>
+  <testcase name="itReturnsAProperListForTwo()" classname="org.example.FactorizerTest" time="0.0"/>
+  <testcase name="itReturnsAProperListForSeventeen()" classname="org.example.FactorizerTest" time="0.001"/>
+  <testcase name="itReturnsAProperListForThree()" classname="org.example.FactorizerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
